@@ -1,0 +1,258 @@
+[
+  {
+    "issue_number": 1,
+    "title": "Execution Theater vs. System Design",
+    "date": "2025-05-12",
+    "concepts": [
+      "Structural Memory"
+    ],
+    "key_story": "Clean deck, green dashboard, silence in the field",
+    "url": "https://guennael.substack.com/p/execution-gaps-issue-1-execution",
+    "blurb": "Why the deck looks green while the field goes silent. Most execution failures are not skill gaps; they are system gaps dressed up as progress theater."
+  },
+  {
+    "issue_number": 2,
+    "title": "The Real Cost of Friction",
+    "date": "2025-05-19",
+    "concepts": [
+      "Quiet Friction"
+    ],
+    "key_story": "Carrier program stalled 18 months over ownership ambiguity",
+    "url": "https://guennael.substack.com/p/execution-gaps-issue-2-the-real-cost",
+    "blurb": "What an 18-month stalled carrier program taught us about the hidden cost of ambiguous ownership. Friction does not announce itself; it just quietly eats your timeline."
+  },
+  {
+    "issue_number": 3,
+    "title": "When Market Language Fails",
+    "date": "2025-05-27",
+    "concepts": [
+      "Standards",
+      "Grading"
+    ],
+    "key_story": "Samsung CPO program vs. 'certified' label degradation",
+    "url": "https://guennael.substack.com/p/when-market-language-fails",
+    "blurb": "When the words your industry uses stop meaning anything, your customers lose trust and your operations lose discipline. What 'certified' really costs when anyone can claim it."
+  },
+  {
+    "issue_number": 4,
+    "title": "Repeated Clarity Under Stress",
+    "date": "2025-06-02",
+    "concepts": [
+      "Stability Before Speed"
+    ],
+    "key_story": "Samsung volume spike: slowed down to re-anchor constraints",
+    "url": "https://guennael.substack.com/p/execution-gaps-issue-4-repeated-clarity",
+    "blurb": "How Samsung handled a volume spike by slowing down, not speeding up. Why repeating the constraints out loud beats pushing harder."
+  },
+  {
+    "issue_number": 5,
+    "title": "When the Situation Changes Faster Than the Syllabus",
+    "date": "2025-06-09",
+    "concepts": [
+      "Adaptive Execution"
+    ],
+    "key_story": "Playbook fluency vs. ambiguity; mental models over memorization",
+    "url": "https://guennael.substack.com/p/execution-gaps-issue-5-when-the-situation",
+    "blurb": "Why playbook fluency fails the moment the ground shifts. Building mental models that survive the situation, not the slide deck."
+  },
+  {
+    "issue_number": 6,
+    "title": "What Breaks at the Handoff",
+    "date": "2025-06-16",
+    "concepts": [
+      "Flow Integrity"
+    ],
+    "key_story": "Role fog, trigger drift, recovery tax",
+    "url": "https://guennael.substack.com/p/execution-gaps-issue-6-what-breaks",
+    "blurb": "Handoffs are where most reverse logistics programs silently fail. Role fog, trigger drift, and the recovery tax nobody sees until it is too late."
+  },
+  {
+    "issue_number": 7,
+    "title": "Coordination Debt",
+    "date": "2025-06-23",
+    "concepts": [
+      "Coordination Debt"
+    ],
+    "key_story": "Near-contract lost after reorg wiped sponsor and account exec",
+    "url": "https://guennael.substack.com/p/execution-gaps-issue-7-coordination",
+    "blurb": "How a reorg wiped out a sponsor and an account exec, and nearly killed a near-signed contract. The coordination debt no one tracks until it comes due."
+  },
+  {
+    "issue_number": 8,
+    "title": "Structural Amnesia",
+    "date": "2025-06-30",
+    "concepts": [
+      "Structural Memory"
+    ],
+    "key_story": "Sales team reusing broken case study; team that rewired its system",
+    "url": "https://guennael.substack.com/p/execution-gaps-issue-8-structural",
+    "blurb": "When your team keeps repeating a broken case study because nobody rewrote the script. How to build structural memory instead of individual heroics."
+  },
+  {
+    "issue_number": 9,
+    "title": "The Circularity Delta",
+    "date": "2025-07-08",
+    "concepts": [
+      "Returns Orchestration"
+    ],
+    "key_story": "White paper with Peter Evans; 10-15% enterprise recovery rates",
+    "url": "https://guennael.substack.com/p/execution-gaps-issue-9-the-circularity",
+    "blurb": "The white paper with Dr. Peter Evans that quantified the gap: enterprise recovery rates at 10-15%, with the rest bleeding into write-offs. Why orchestration beats vendor stacking."
+  },
+  {
+    "issue_number": 10,
+    "title": "The 80/20 of System Design",
+    "date": "2025-07-14",
+    "concepts": [
+      "Critical Path over Surface Area"
+    ],
+    "key_story": "Note 7 crisis: battery as invisible critical constraint",
+    "url": "https://guennael.substack.com/p/execution-gaps-10-the-8020-of-system",
+    "blurb": "What the Note 7 crisis revealed about invisible critical constraints. Why 80% of your system design effort should focus on 20% of the path."
+  },
+  {
+    "issue_number": 11,
+    "title": "Your System Is Only as Strong as the Questions You Ask",
+    "date": "2025-07-25",
+    "concepts": [
+      "Critical Path over Surface Area"
+    ],
+    "key_story": "Three marketplace failures for Samsung CPO",
+    "url": "https://guennael.substack.com/p/execution-gaps-11-your-system-is",
+    "blurb": "Three marketplace failures from the Samsung CPO program. The questions your team is not asking are costing you more than the ones they are."
+  },
+  {
+    "issue_number": 12,
+    "title": "When Circularity Fails",
+    "date": "2025-08-03",
+    "concepts": [
+      "Flow Integrity",
+      "Structural Memory"
+    ],
+    "key_story": "'Vendor orchestration mirage' vs. Recovery-as-a-System",
+    "url": "https://guennael.substack.com/p/execution-gaps-12-when-circularity",
+    "blurb": "Why the 'vendor orchestration mirage' collapses under real volume. Recovery-as-a-System as the alternative."
+  },
+  {
+    "issue_number": 13,
+    "title": "Execution Black Holes",
+    "date": "2025-08-18",
+    "concepts": [
+      "Throughput"
+    ],
+    "key_story": "TXU customer retention: 25% churn in 5-week window, cut to 3 weeks",
+    "url": "https://guennael.substack.com/p/execution-gaps-13-what-is-an-execution",
+    "blurb": "How TXU cut a 5-week churn window to 3 weeks and saved 25% of retention dollars. Finding and closing the execution black holes nobody maps."
+  },
+  {
+    "issue_number": 14,
+    "title": "The Forbidden Low-Hanging Fruit",
+    "date": "2025-09-01",
+    "concepts": [
+      "Systems Change"
+    ],
+    "key_story": "TXU: $36M annual value from testing the 'optimized' sacred process",
+    "url": "https://guennael.substack.com/p/execution-gaps-14-the-forbidden-low",
+    "blurb": "$36M in annual value left on the table because nobody would touch the 'optimized' sacred process. Why the untouchable process is usually where the money is."
+  },
+  {
+    "issue_number": 15,
+    "title": "The CFO Filter",
+    "date": "2025-09-15",
+    "concepts": [
+      "Net Recovery as North Star"
+    ],
+    "key_story": "Finance kills programs that can't prove predictable contribution margin",
+    "url": "https://guennael.substack.com/p/execution-gaps-15-the-cfo-filter",
+    "blurb": "Why Finance kills reverse logistics programs that cannot prove predictable contribution margin. The filter you need to pass before the budget conversation."
+  },
+  {
+    "issue_number": 16,
+    "title": "Returns Don't Have to Bleed Margin",
+    "date": "2025-09-30",
+    "concepts": [
+      "Flow Integrity"
+    ],
+    "key_story": "Returns as recovery, not write-off; TICE introduction",
+    "url": "https://guennael.substack.com/p/execution-gaps-16-returns-dont-have",
+    "blurb": "Returns are treated as write-offs by default; they do not have to be. The recovery-first framing that changes the P&L math, and the introduction to TICE."
+  },
+  {
+    "issue_number": 17,
+    "title": "The Real KPI: Time-Discounted Net Recovery",
+    "date": "2025-10-20",
+    "concepts": [
+      "Reverse Logistics Economics"
+    ],
+    "key_story": "1%/week decay, capital turns math, 'the clock is the leak'",
+    "url": "https://guennael.substack.com/p/execution-gaps-17-the-real-kpi-time",
+    "blurb": "Why your real KPI is time-discounted net recovery, not gross recovery. The 1%-per-week decay math and why the clock is the leak."
+  },
+  {
+    "issue_number": 18,
+    "title": "The Clock Is Still the Leak (and Sometimes the Fuse)",
+    "date": "2025-11-04",
+    "concepts": [
+      "Stability Before Speed"
+    ],
+    "key_story": "BCG toy trucks; Samsung vendor brittleness; trust premium",
+    "url": "https://guennael.substack.com/p/execution-gaps-18-the-clock-is-still",
+    "blurb": "BCG's toy trucks, Samsung's brittle vendor stack, and the trust premium you earn by delivering on time. When the clock stops being a leak and starts being a fuse."
+  },
+  {
+    "issue_number": 19,
+    "title": "Overdesigned, Underperforming",
+    "date": "2025-11-15",
+    "concepts": [
+      "Assumption Debt"
+    ],
+    "key_story": "$400K integration; Saint-Exupery quote",
+    "url": "https://guennael.substack.com/p/execution-gaps-19-overdesigned-underperforming",
+    "blurb": "A $400K integration that made everything worse. Why over-designed systems accumulate assumption debt you cannot see until they fail."
+  },
+  {
+    "issue_number": 20,
+    "title": "Execution Leverage",
+    "date": "2025-11-30",
+    "concepts": [
+      "Execution Leverage"
+    ],
+    "key_story": "Champion vs. challenger drift; clarity over control",
+    "url": "https://guennael.substack.com/p/execution-gaps-20-execution-leverage",
+    "blurb": "The drift between your champion and the challenger running the account. Why clarity beats control when you cannot be in every meeting."
+  },
+  {
+    "issue_number": 21,
+    "title": "Not Broken. Just Misdesigned.",
+    "date": "2025-12-15",
+    "concepts": [
+      "Net Recovery as North Star"
+    ],
+    "key_story": "Samsung zero-inventory rule; solving the wrong problem efficiently",
+    "url": "https://guennael.substack.com/p/execution-gaps-21-not-broken-just",
+    "blurb": "Samsung's zero-inventory rule looked elegant on the whiteboard. How 'solving the wrong problem efficiently' is the most expensive form of execution."
+  },
+  {
+    "issue_number": 22,
+    "title": "Hand-Off Without Breakdown",
+    "date": "2026-01-05",
+    "concepts": [
+      "Flow Integrity",
+      "Stability Before Speed"
+    ],
+    "key_story": "18-month carrier program; won next client on reference call",
+    "url": "https://guennael.substack.com/p/execution-gaps-22-hand-off-without",
+    "blurb": "How an 18-month carrier program closed clean and won the next client on the reference call. The hand-off discipline that compounds into pipeline."
+  },
+  {
+    "issue_number": 23,
+    "title": "The Friction That Never Generates an Escalation",
+    "date": "2026-03-15",
+    "concepts": [
+      "Quiet Friction"
+    ],
+    "key_story": "TXU decade-long useless report; four-team green dashboards with hemorrhaging cash",
+    "url": "https://guennael.substack.com/p/execution-gaps-23-the-friction-that",
+    "blurb": "A decade-long useless report at TXU. Four teams reporting green dashboards while cash hemorrhaged. The friction that never escalates is the friction you lose to."
+  }
+]
