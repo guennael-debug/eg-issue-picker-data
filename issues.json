@@ -276,5 +276,17 @@
     "key_story": "Samsung pricing-curve + champion-challenger; senior ITAD peer reports ~1/3 of current contacts came from phone industry",
     "url": "https://guennael.substack.com/p/eg25-itad-has-always-been-bigger",
     "blurb": "The smaller side of device recovery industrialized faster than the bigger one because of three structural pressures ITAD never had. Now mobile's talent is crossing over with the playbook in hand. What an ITAD shop should do this quarter."
+  },
+  {
+    "issue_number": 26,
+    "title": "The Recovery Half Your Dashboard Doesn't Show",
+    "date": "2026-05-27",
+    "concepts": [
+      "Reverse Logistics Economics",
+      "Net Recovery as North Star"
+    ],
+    "key_story": "Anonymized SquareTrade Australia case: team hit every recovery rate target while CFO complained program was losing money; 100+ day average shelf time",
+    "url": "https://guennael.substack.com/p/eg26-the-recovery-half-your-dashboard",
+    "blurb": "Recovery rate as a percentage is half of the right measurement. Asset velocity is the half most dashboards leave out. The system does what you measure it to do, so two operators with the same instructions can end up running a \"winning\" dashboard and a bleeding P&L at the same time."
   }
 ]
