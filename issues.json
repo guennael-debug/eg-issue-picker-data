@@ -140,9 +140,9 @@
     "concepts": [
       "Throughput"
     ],
-    "key_story": "TXU customer retention: 25% churn in 5-week window, cut to 3 weeks",
+    "key_story": "TXU customer retention: a bloated repricing cycle (5+ weeks, cut to 3) was too slow to reach customers before 25% churned during the attrition window",
     "url": "https://guennael.substack.com/p/execution-gaps-13-what-is-an-execution",
-    "blurb": "How TXU cut a 5-week churn window to 3 weeks and saved 25% of retention dollars. Finding and closing the execution black holes nobody maps."
+    "blurb": "How TXU cut a 5-week repricing cycle to 3 weeks so renewal offers reached customers before 25% of them churned. Finding and closing the execution black holes nobody maps."
   },
   {
     "issue_number": 14,
@@ -151,9 +151,9 @@
     "concepts": [
       "Systems change"
     ],
-    "key_story": "TXU: $36M annual value from testing the \"optimized\" sacred process",
+    "key_story": "TXU: $60M annual value from testing the \"optimized\" sacred process",
     "url": "https://guennael.substack.com/p/execution-gaps-14-the-forbidden-low",
-    "blurb": "$36M in annual value left on the table because nobody would touch the \"optimized\" sacred process. Why the untouchable process is usually where the money is."
+    "blurb": "$60M in annual value left on the table because nobody would touch the \"optimized\" sacred process. Why the untouchable process is usually where the money is."
   },
   {
     "issue_number": 15,
@@ -288,5 +288,17 @@
     "key_story": "Anonymized SquareTrade Australia case: team hit every recovery rate target while CFO complained program was losing money; 100+ day average shelf time",
     "url": "https://guennael.substack.com/p/eg26-the-recovery-half-your-dashboard",
     "blurb": "Recovery rate as a percentage is half of the right measurement. Asset velocity is the half most dashboards leave out. The system does what you measure it to do, so two operators with the same instructions can end up running a \"winning\" dashboard and a bleeding P&L at the same time."
+  },
+  {
+    "issue_number": 27,
+    "title": "The Most Dangerous Process Is the One You Compiled",
+    "date": "2026-06-10",
+    "concepts": [
+      "Stability Before Speed",
+      "Assumption Debt"
+    ],
+    "key_story": "TXU customer-retention flow inherited \"compiled\" and calcified: ran perfectly, lost 25% of customers in the renewal window until reopened and tested (25% -> 12%); arXiv 2605.22502 \"subterranean agent\" compile paper as the cautionary AI mirror",
+    "url": "https://guennael.substack.com/p/eg27-the-most-dangerous-process-is",
+    "blurb": "The execution gap everyone watches is intent that never executes. Its unwatched twin is execution that outlives its intent: a process frozen (\"compiled\") into an SOP or a model's weights, run cheaply and confidently long after the right answer rotted. The handle is correctness half-life - not how often a process runs, but how fast its right answer goes stale. Long half-life: freeze it. Short half-life: keep it deliberate on purpose, because the friction is your early-warning system."
   }
 ]
