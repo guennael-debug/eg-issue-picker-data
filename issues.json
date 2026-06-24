@@ -300,5 +300,16 @@
     "key_story": "TXU customer-retention flow inherited \"compiled\" and calcified: ran perfectly, lost 25% of customers in the renewal window until reopened and tested (25% -> 12%); arXiv 2605.22502 \"subterranean agent\" compile paper as the cautionary AI mirror",
     "url": "https://guennael.substack.com/p/eg27-the-most-dangerous-process-is",
     "blurb": "The execution gap everyone watches is intent that never executes. Its unwatched twin is execution that outlives its intent: a process frozen (\"compiled\") into an SOP or a model's weights, run cheaply and confidently long after the right answer rotted. The handle is correctness half-life - not how often a process runs, but how fast its right answer goes stale. Long half-life: freeze it. Short half-life: keep it deliberate on purpose, because the friction is your early-warning system."
+  },
+  {
+    "issue_number": 28,
+    "title": "Don't Sell Circularity, Sell Control",
+    "date": "2026-06-23",
+    "concepts": [
+      "Net Recovery as North Star"
+    ],
+    "key_story": "European circularity-first models flopped in the US; a \"buy one, give one to Africa\" partner trade-in idea customers met with \"cute, but I don't care\"",
+    "url": "https://guennael.substack.com/p/dont-sell-circularity-sell-control",
+    "blurb": "Circularity can't be the engine of a recovery program, only a side effect. US consumers applaud sustainability but act on self-interest (the wallet): build for the consumer benefit and circularity follows. Same logic one level up: the brand/retailer buyer is buying predictable, defensible economics (the \"control\"), not a greener supply chain. The strip test: take every sustainability claim out of the consumer-facing pitch and ask if anyone still uses it."
   }
 ]
