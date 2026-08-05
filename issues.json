@@ -247,7 +247,7 @@
   {
     "issue_number": 23,
     "title": "The Friction That Never Generates an Escalation",
-    "date": "2026-03-15",
+    "date": "2026-03-26",
     "concepts": [
       "Quiet Friction"
     ],
@@ -311,5 +311,17 @@
     "key_story": "European circularity-first models flopped in the US; a \"buy one, give one to Africa\" partner trade-in idea customers met with \"cute, but I don't care\"",
     "url": "https://guennael.substack.com/p/dont-sell-circularity-sell-control",
     "blurb": "Circularity can't be the engine of a recovery program, only a side effect. US consumers applaud sustainability but act on self-interest (the wallet): build for the consumer benefit and circularity follows. Same logic one level up: the brand/retailer buyer is buying predictable, defensible economics (the \"control\"), not a greener supply chain. The strip test: take every sustainability claim out of the consumer-facing pitch and ask if anyone still uses it."
+  },
+  {
+    "issue_number": 29,
+    "title": "My AI Invented a Trade-In Program That Never Existed",
+    "date": "2026-08-05",
+    "concepts": [
+      "Structural Memory",
+      "Flow Integrity"
+    ],
+    "key_story": "An AI outbound-research agent invented a prospect's trade-in program that did not exist, one sentence before a cold email went out; G's answer is a 361-file retrieval wiki plus plain Python checks that have blocked 136 confident wrong answers",
+    "url": "https://guennael.substack.com/p/my-ai-invented-a-trade-in-program",
+    "blurb": "An LLM is a probabilistic guesser by design, so \"wait for a better model\" is the same useless instruction as telling an employee to do better next time. Reliability comes from the system wrapped around the model, never the model itself. Two concurrent builds carry it: retrieval (hand it real source text instead of fuzzy memory) and plain deterministic code sitting between the model and you. The operator version is the ITAD wipe gate: the record does not close unless the certificate serial matches the one scanned at intake. Build the check where a confident wrong answer would cost the most."
   }
 ]
