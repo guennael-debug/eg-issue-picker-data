@@ -323,5 +323,29 @@
     "key_story": "An AI outbound-research agent invented a prospect's trade-in program that did not exist, one sentence before a cold email went out; G's answer is a 361-file retrieval wiki plus plain Python checks that have blocked 136 confident wrong answers",
     "url": "https://guennael.substack.com/p/my-ai-invented-a-trade-in-program",
     "blurb": "An LLM is a probabilistic guesser by design, so \"wait for a better model\" is the same useless instruction as telling an employee to do better next time. Reliability comes from the system wrapped around the model, never the model itself. Two concurrent builds carry it: retrieval (hand it real source text instead of fuzzy memory) and plain deterministic code sitting between the model and you. The operator version is the ITAD wipe gate: the record does not close unless the certificate serial matches the one scanned at intake. Build the check where a confident wrong answer would cost the most."
+  },
+  {
+    "issue_number": 30,
+    "title": "The Build-vs-Buy Question Almost Nobody Asks",
+    "date": "2026-09-10",
+    "concepts": [
+      "Execution Leverage",
+      "Flow Integrity"
+    ],
+    "key_story": "Samsung's mobility trade-in program ran champion/challenger on both processing and monetization; the challenger's pre-sell offer beat the primary auction channel 30-50% of the time, and lots were sometimes routed to the champion anyway so neither vendor could model the routing",
+    "url": "https://guennael.substack.com/p/eg30-the-build-vs-buy-question-almost",
+    "blurb": "Build vs. buy is argued on capability and cost, which both have spreadsheet answers by Thursday and neither of which decides it. Capability is rarely the real gate: large companies know what to do and lack a person to own it. But staffing is a near-term problem that gets solved either way; what does not get solved in a quarter is where the learning ends up. Outsource and you do not lose the knowledge, you never generate it, because there was never a second number to compare against. The third option is neither box: buy the capability twice and keep the scoreboard. And you do not need two vendors, you need one comparison point. What kills the learning is not the single vendor, it is the single number."
+  },
+  {
+    "issue_number": 31,
+    "title": "Nobody Invoiced This Discount. It Still Cost Us Millions.",
+    "date": "2026-10-14",
+    "concepts": [
+      "Net Recovery as North Star",
+      "Reverse Logistics Economics"
+    ],
+    "key_story": "A late-shipping Samsung processing vendor's lots sold about 3% under the other vendor's on comparable units: ~1% aging, ~2% buyers' margin of safety on every lot, clean ones included; over time, millions",
+    "url": "https://guennael.substack.com/p/eg31-nobody-invoiced-this-discount",
+    "blurb": "OEMs judge trade-in programs in units, but margin is decided after the count and leaks in two places: the monetization step you sell at, and the margin of safety buyers charge a vendor they can't audit. A better channel rarely fixes the second one, because buyers price your operation, not only your inventory. A second price on comparable units exposes it."
   }
 ]
