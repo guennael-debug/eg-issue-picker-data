@@ -347,5 +347,17 @@
     "key_story": "A late-shipping Samsung processing vendor's lots sold about 3% under the other vendor's on comparable units: ~1% aging, ~2% buyers' margin of safety on every lot, clean ones included; over time, millions",
     "url": "https://guennael.substack.com/p/eg31-nobody-invoiced-this-discount",
     "blurb": "OEMs judge trade-in programs in units, but margin is decided after the count and leaks in two places: the monetization step you sell at, and the margin of safety buyers charge a vendor they can't audit. A better channel rarely fixes the second one, because buyers price your operation, not only your inventory. A second price on comparable units exposes it."
+  },
+  {
+    "issue_number": 32,
+    "title": "Bolting AI Onto Old Work Hardly Pays. Redraw the Work First.",
+    "date": "2026-11-19",
+    "concepts": [
+      "Execution Leverage",
+      "Structural Memory"
+    ],
+    "key_story": "First AI-shift issue (seed #33, working title \"Retrofit or Redesign\"). A 2021 Excel model showed a precise 21.05% margin on N-3 phones losing money at about $20 a unit; AI speeds up bad rules the same way. Hammer/Ford, McKinsey, BCG backing; sequence: quick win, document, two gates, then redraw. See [[eg-32]]",
+    "url": "https://guennael.substack.com/p/eg32-retrofit-or-redesign",
+    "blurb": "Adding AI to old work speeds up whatever the process already does, bad rules included. A 2021 Excel model showed a precise 21.05% gross margin on a phone line that lost money on every unit. The bigger gain comes from redrawing the work, but only after a quick win, a documented process, a harness that holds up in production and buy-in from the people doing the work."
   }
 ]
